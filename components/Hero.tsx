@@ -20,8 +20,8 @@ export default function Hero() {
       </h1>
       
       <p className="max-w-2xl text-lg leading-8 text-gray-600 dark:text-gray-300 mb-10">
-        Soy un desarrollador web apasionado por crear experiencias digitales increíbles. <br /> 
-        Me especializo en construir aplicaciones modernas, rápidas y accesibles.
+        Soy un desarrollador web apasionado por crear experiencias digitales increíblesy
+        me especializo en construir aplicaciones modernas, rápidas y accesibles.
       </p>
       
       <div className="flex flex-col sm:flex-row gap-4">
