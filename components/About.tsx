@@ -8,9 +8,8 @@ export default function About() {
             Desarrollador Full Stack & Diseñador UI/UX
           </p>
           <p className="mt-6 text-lg leading-8 text-gray-600 dark:text-gray-300">
-            Tengo experiencia trabajando con tecnologías modernas como React, Next.js, Node.js y TypeScript. 
-            Me encanta resolver problemas complejos y transformar ideas en productos funcionales. 
-            Siempre estoy aprendiendo nuevas herramientas para mejorar mi flujo de trabajo.
+            Tengo experiencia trabajando con tecnologías modernas como React, Next.js, Node.js y TypeScript, ademas 
+            me encanta resolver problemas complejos y transformar ideas en productos funcionales. 
           </p>
         </div>
         
